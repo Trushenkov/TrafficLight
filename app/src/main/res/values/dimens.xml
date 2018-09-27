@@ -2,5 +2,5 @@
 <resources>
     <dimen name="width_button">250dp</dimen>
     <dimen name="margin_120">120dp</dimen>
-    <dimen name="margin_30_horizontal">30dp</dimen>
+    <dimen name="margin_45">45dp</dimen>
 </resources>
