@@ -6,20 +6,22 @@
 
 ## Предложенные экраны интерфейса
 
-![first_screen]()
+![first_screen](https://github.com/Trushenkov/TrafficLight/blob/master/app/src/main/res/mipmap-hdpi/first_maket.png)
 
-![second_screen]()
+![second_screen](https://github.com/Trushenkov/TrafficLight/blob/master/app/src/main/res/mipmap-hdpi/second_maket.png)
 
-![third_screen]()
+![third_screen](https://github.com/Trushenkov/TrafficLight/blob/master/app/src/main/res/mipmap-hdpi/third_maket.png)
 
-![fourth_screen]()
+![fourth_screen](https://github.com/Trushenkov/TrafficLight/blob/master/app/src/main/res/mipmap-hdpi/fourth_maket.png)
 
 ## Результаты работы приложения на реальном устройстве
 
-![first]()
+![first](https://github.com/Trushenkov/TrafficLight/blob/master/app/src/main/res/mipmap-hdpi/first.jpg)
 
-![second]()
+![second](https://github.com/Trushenkov/TrafficLight/blob/master/app/src/main/res/mipmap-hdpi/second.jpg)
 
-![third]()
+![third](https://github.com/Trushenkov/TrafficLight/blob/master/app/src/main/res/mipmap-hdpi/third.jpg)
 
-![fourth]()
+![fourth](https://github.com/Trushenkov/TrafficLight/blob/master/app/src/main/res/mipmap-hdpi/fourth.jpg)
+
+![fivth](https://github.com/Trushenkov/TrafficLight/blob/master/app/src/main/res/mipmap-hdpi/fivth.jpg)
