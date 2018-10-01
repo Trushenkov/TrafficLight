@@ -21,11 +21,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        //Определение элементов экрана по id
         red = findViewById(R.id.red_button);
         yellow = findViewById(R.id.yellow_button);
         green = findViewById(R.id.green_button);
         view = findViewById(R.id.activity);
 
+        //установка обработчика для кнопок
         red.setOnClickListener(this);
         yellow.setOnClickListener(this);
         green.setOnClickListener(this);
