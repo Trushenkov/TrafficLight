@@ -16,7 +16,7 @@
     <LinearLayout
         android:layout_width="0dp"
         android:layout_height="match_parent"
-        android:layout_weight="2"
+        android:layout_weight="4"
         android:orientation="vertical">
 
         <Space
@@ -29,21 +29,21 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/red"
-            android:textColor="@color/colorRed"/>
+            android:textColor="@color/colorRed" />
 
         <Button
             android:id="@+id/yellow_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/yellow"
-            android:textColor="@color/colorYellow"/>
+            android:textColor="@color/colorYellow" />
 
         <Button
             android:id="@+id/green_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/green"
-            android:textColor="@color/colorGreen"/>
+            android:textColor="@color/colorGreen" />
 
         <Space
             android:layout_width="match_parent"
